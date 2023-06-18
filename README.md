@@ -6,7 +6,8 @@ NextJS 13.4 with Clerk Authentication (and Tailwind)
 
 Create repo from this template:
 ```
-gh create repo <repo-name> --public --clone --template https://github.com/misrule/template-test-1.git
+gh create repo <repo-name> --public --clone \
+  --template https://github.com/misrule/next-clerk-starter.git
 ```
 
 Create .env file and copy Clerk variables (dashboard.clerk.com)
